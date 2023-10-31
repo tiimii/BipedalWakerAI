@@ -17,9 +17,9 @@ The BipedalWakerAI is an artificial intelligence model designed to navigate the 
 
 ##Getting Started
 
-Clone the repository.
-Install the required libraries and dependencies.
-Run the main.py script to train and test the model.
+- Clone the repository.
+- Install the required libraries and dependencies.
+- Run the main.py script to train and test the model.
 
 ## Training Process
 
